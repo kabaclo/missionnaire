@@ -1,0 +1,4 @@
+*.DSTORE
+node_modules
+static/scripts
+static/styles
