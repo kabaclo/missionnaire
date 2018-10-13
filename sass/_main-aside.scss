@@ -1,0 +1,23 @@
+.main-reading-section{
+    width: 70%;
+    white-space: normal;
+    
+}
+
+.text-box{
+    // padding: 16px;
+    background-color: $default-2;
+    
+    .text-box--title{
+        width: 100%;
+        height: 68px;
+        background-image: url(/missionnaire/static/images/graphiques/Presentation_515.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .text-box--content{
+        padding: 16px;
+        border: 1px solid $default_5;
+
+    }
+}

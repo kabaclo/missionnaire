@@ -1,0 +1,17 @@
+@import "_variables";
+@import "_header-section";
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    min-height: 100vh;
+    background-image: url(/missionnaire/static/images/graphiques/backH_1024_2.jpg);
+    background-repeat: repeat-x;
+    background-attachment: fixed;
+    width: 100vw;
+}
+@import "_contents-section";
+@import "_main-aside";
+@import "_info-aside";

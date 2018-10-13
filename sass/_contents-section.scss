@@ -1,0 +1,12 @@
+.content-section{
+    position: relative;
+    width: 90%;
+    max-width: 1200px;
+    margin: 0 auto;
+    background-color: $default_3;
+    white-space: nowrap;
+}
+.main-reading-section, .aside-useful-info{
+    display: inline-block;
+    vertical-align: top;
+}
